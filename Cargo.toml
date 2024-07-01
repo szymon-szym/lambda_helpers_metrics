@@ -1,7 +1,9 @@
 [package]
 name = "lambda_helpers_metrics"
+license = "MIT"
 version = "0.1.0-alpha"
 edition = "2021"
+description = "Helper for EMF metrics in AWS Lambda Function"
 
 [dependencies]
 chrono = "0.4.38"
